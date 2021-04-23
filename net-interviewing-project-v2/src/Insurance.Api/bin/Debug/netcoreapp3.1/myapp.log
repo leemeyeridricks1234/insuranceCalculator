@@ -1,0 +1,25 @@
+2021-04-22 17:59:27,775 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-04-22 17:59:27,792 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-04-22 17:59:27,795 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\personal\Coolblue\net-interviewing-project-v2\src\Insurance.Api
+2021-04-22 17:59:46,324 [15] INFO Insurance.Api.Controllers.InsuranceController - test logging - calculate interest
+2021-04-22 18:33:07,671 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-04-22 18:33:07,687 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-04-22 18:33:07,691 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\personal\Coolblue\net-interviewing-project-v2\src\Insurance.Api
+2021-04-22 18:33:17,085 [15] INFO Insurance.Api.Controllers.InsuranceController - CalculateInsurance started, ProductID=715990
+2021-04-22 18:33:17,747 [15] INFO Insurance.Api.Services.InsuranceService - Product found with ID = 715990
+2021-04-22 18:33:17,799 [15] INFO Insurance.Api.Services.InsuranceService - Product Type found with ID = 33
+2021-04-22 18:33:17,804 [15] INFO Insurance.Api.Services.InsuranceService - Surcharge processed.
+2021-04-22 18:33:17,809 [15] INFO Insurance.Api.Services.InsuranceService - Insurance Calculated with Value = 500
+2021-04-22 18:33:17,811 [15] INFO Insurance.Api.Controllers.InsuranceController - CalculateInsurance finished, InsuranceValue=500
+2021-04-22 20:31:58,326 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-04-22 20:31:58,343 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-04-22 20:31:58,345 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\personal\Coolblue\net-interviewing-project-v2\src\Insurance.Api
+2021-04-22 20:32:23,710 [12] INFO Insurance.Api.Controllers.InsuranceController - CalculateInsurance started, ProductID=715990
+2021-04-22 20:32:24,271 [12] INFO Insurance.Api.Services.InsuranceService - Product found with ID = 715990
+2021-04-22 20:32:24,324 [12] INFO Insurance.Api.Services.InsuranceService - Product Type found with ID = 33
+2021-04-22 20:32:24,329 [12] INFO Insurance.Api.Services.InsuranceService - Surcharge processed.
+2021-04-22 20:32:24,335 [12] INFO Insurance.Api.Services.InsuranceService - Insurance Calculated with Value = 500
+2021-04-22 20:32:24,335 [12] INFO Insurance.Api.Controllers.InsuranceController - CalculateInsurance finished, InsuranceValue=500
+2021-04-22 21:00:43,896 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-04-22 21:00:43,909 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-04-22 21:00:43,911 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\personal\Coolblue\net-interviewing-project-v2\src\Insurance.Api
